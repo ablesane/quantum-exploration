@@ -1,7 +1,5 @@
 # quantum-exploration
 
-# ⚛️ quantum-exploration
-
 > A personal sandbox for exploring quantum computing algorithms — expect rough edges, half-baked ideas, and occasional breakthroughs.
 
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
