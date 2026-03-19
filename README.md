@@ -104,11 +104,6 @@ qft_circuit.draw("text")
 
 ```
 quantum-exploration/
-├── circuits/          # Reusable circuit building blocks
-├── algorithms/        # Full algorithm implementations
-│   ├── grover.py
-│   ├── shor.py
-│   └── vqe.py
 ├── notebooks/         # Jupyter notebooks for experimentation
 └── utils/             # Helpers for visualization and simulation
 ```
